@@ -15,7 +15,7 @@ void mult(int a,int b)
     int c = a*b;
     cout<<c;
 }
-void div(int a,int b)
+void divide(int a,int b)
 {
     int c = a/b;
     cout<<c;
